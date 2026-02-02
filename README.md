@@ -1,4 +1,4 @@
-# 🎤 Python Voice Recognition Assistant
+# Python Voice Recognition Assistant
 
 A simple **Python voice assistant** that listens to your voice, converts speech to text, processes basic commands, and responds using text-to-speech.
 
